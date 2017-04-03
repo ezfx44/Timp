@@ -1,0 +1,10 @@
+nm1.txt 1 Igora
+nm2.txt 1 Igor
+nm1.txt 2 Tsoy
+nm2.txt 2 SOset
+nm1.txt 3 SOset
+nm2.txt 3 Tsoy
+nm1.txt 4 xyu
+nm2.txt 4 xuy
+nm1.txt 5 xyu
+nm2.txt 5 yux
